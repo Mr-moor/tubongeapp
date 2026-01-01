@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "Tubonge",
+    "slug": "tubonge",
+    "version": "1.0.0",
+    "android": {
+      "package": "com.tubonge.app"
+    }
+  }
+}
